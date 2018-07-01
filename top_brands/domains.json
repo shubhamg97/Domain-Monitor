@@ -1,0 +1,2934 @@
+[
+	{
+		"rank": 1,
+		"brand": "google",
+		"domain": "google.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 2,
+		"brand": "youtube",
+		"domain": "youtube.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 3,
+		"brand": "facebook",
+		"domain": "facebook.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 4,
+		"brand": "baidu",
+		"domain": "baidu.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 5,
+		"brand": "wikipedia",
+		"domain": "wikipedia.org",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 6,
+		"brand": "reddit",
+		"domain": "reddit.com",
+		"category": "Newsgroups and Message Boards"
+	},
+
+	{
+		"rank": 7,
+		"brand": "yahoo",
+		"domain": "yahoo.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 8,
+		"brand": "qq",
+		"domain": "qq.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 9,
+		"brand": "amazon",
+		"domain": "amazon.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 10,
+		"brand": "taobao",
+		"domain": "taobao.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 12,
+		"brand": "sohu",
+		"domain": "sohu.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 13,
+		"brand": "twitter",
+		"domain": "twitter.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 14,
+		"brand": "tmall",
+		"domain": "tmall.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 15,
+		"brand": "live",
+		"domain": "live.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 16,
+		"brand": "instagram",
+		"domain": "instagram.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 17,
+		"brand": "vk",
+		"domain": "vk.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 18,
+		"brand": "jd",
+		"domain": "jd.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 20,
+		"brand": "sina",
+		"domain": "sina.com.cn",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 21,
+		"brand": "weibo",
+		"domain": "weibo.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 22,
+		"brand": "yandex",
+		"domain": "yandex.ru",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 23,
+		"brand": "360",
+		"domain": "360.cn",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 29,
+		"brand": "pornhub",
+		"domain": "pornhub.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 30,
+		"brand": "netflix",
+		"domain": "netflix.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 31,
+		"brand": "twitch",
+		"domain": "twitch.tv",
+		"category": "Games"
+	},
+
+	{
+		"rank": 32,
+		"brand": "linkedin",
+		"domain": "linkedin.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 35,
+		"brand": "office",
+		"domain": "office.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 37,
+		"brand": "csdn",
+		"domain": "csdn.net",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 38,
+		"brand": "microsoft",
+		"domain": "microsoft.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 39,
+		"brand": "t",
+		"domain": "t.co",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 40,
+		"brand": "microsoftonline",
+		"domain": "microsoftonline.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 41,
+		"brand": "ebay",
+		"domain": "ebay.com",
+		"category": "Auction"
+	},
+
+	{
+		"rank": 42,
+		"brand": "bing",
+		"domain": "bing.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 43,
+		"brand": "msn",
+		"domain": "msn.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 45,
+		"brand": "mail",
+		"domain": "mail.ru",
+		"category": "Web-based Email"
+	},
+
+	{
+		"rank": 46,
+		"brand": "alipay",
+		"domain": "alipay.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 48,
+		"brand": "tribunnews",
+		"domain": "tribunnews.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 49,
+		"brand": "xvideos",
+		"domain": "xvideos.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 50,
+		"brand": "ok",
+		"domain": "ok.ru",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 51,
+		"brand": "livejasmin",
+		"domain": "livejasmin.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 52,
+		"brand": "imgur",
+		"domain": "imgur.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 53,
+		"brand": "aliexpress",
+		"domain": "aliexpress.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 54,
+		"brand": "whatsapp",
+		"domain": "whatsapp.com",
+		"category": "Instant Messaging"
+	},
+
+	{
+		"rank": 57,
+		"brand": "wordpress",
+		"domain": "wordpress.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 58,
+		"brand": "stackoverflow",
+		"domain": "stackoverflow.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 60,
+		"brand": "tumblr",
+		"domain": "tumblr.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 61,
+		"brand": "imdb",
+		"domain": "imdb.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 62,
+		"brand": "github",
+		"domain": "github.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 63,
+		"brand": "wikia",
+		"domain": "wikia.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 64,
+		"brand": "youth",
+		"domain": "youth.cn",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 66,
+		"brand": "hao123",
+		"domain": "hao123.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 67,
+		"brand": "blogspot",
+		"domain": "blogspot.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 69,
+		"brand": "xhamster",
+		"domain": "xhamster.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 72,
+		"brand": "providr",
+		"domain": "providr.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 73,
+		"brand": "paypal",
+		"domain": "paypal.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 74,
+		"brand": "googleusercontent",
+		"domain": "googleusercontent.com",
+		"category": "Content Servers"
+	},
+
+	{
+		"rank": 75,
+		"brand": "apple",
+		"domain": "apple.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 76,
+		"brand": "deloton",
+		"domain": "deloton.com",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 77,
+		"brand": "bongacams",
+		"domain": "bongacams.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 78,
+		"brand": "adobe",
+		"domain": "adobe.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 79,
+		"brand": "pinterest",
+		"domain": "pinterest.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 80,
+		"brand": "detik",
+		"domain": "detik.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 81,
+		"brand": "diply",
+		"domain": "diply.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 82,
+		"brand": "coccoc",
+		"domain": "coccoc.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 83,
+		"brand": "savefrom",
+		"domain": "savefrom.net",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 86,
+		"brand": "xnxx",
+		"domain": "xnxx.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 87,
+		"brand": "fbcdn",
+		"domain": "fbcdn.net",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 89,
+		"brand": "txxx",
+		"domain": "txxx.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 90,
+		"brand": "dropbox",
+		"domain": "dropbox.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 92,
+		"brand": "quora",
+		"domain": "quora.com",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 93,
+		"brand": "pixnet",
+		"domain": "pixnet.net",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 95,
+		"brand": "thestartmagazine",
+		"domain": "thestartmagazine.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 97,
+		"brand": "bbc",
+		"domain": "bbc.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 98,
+		"brand": "soso",
+		"domain": "soso.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 99,
+		"brand": "popads",
+		"domain": "popads.net",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 101,
+		"brand": "tokopedia",
+		"domain": "tokopedia.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 102,
+		"brand": "dkn",
+		"domain": "dkn.tv",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 103,
+		"brand": "booking",
+		"domain": "booking.com",
+		"category": "Travel"
+	},
+
+	{
+		"rank": 104,
+		"brand": "tianya",
+		"domain": "tianya.cn",
+		"category": "Newsgroups and Message Boards"
+	},
+
+	{
+		"rank": 105,
+		"brand": "craigslist",
+		"domain": "craigslist.org",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 108,
+		"brand": "chaturbate",
+		"domain": "chaturbate.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 110,
+		"brand": "cnn",
+		"domain": "cnn.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 111,
+		"brand": "amazonaws",
+		"domain": "amazonaws.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 112,
+		"brand": "espn",
+		"domain": "espn.com",
+		"category": "Sports"
+	},
+
+	{
+		"rank": 113,
+		"brand": "flipkart",
+		"domain": "flipkart.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 114,
+		"brand": "so",
+		"domain": "so.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 115,
+		"brand": "soundcloud",
+		"domain": "soundcloud.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 117,
+		"brand": "xinhuanet",
+		"domain": "xinhuanet.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 119,
+		"brand": "stackexchange",
+		"domain": "stackexchange.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 120,
+		"brand": "nytimes",
+		"domain": "nytimes.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 121,
+		"brand": "onlinesbi",
+		"domain": "onlinesbi.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 122,
+		"brand": "1688",
+		"domain": "1688.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 124,
+		"brand": "dailymotion",
+		"domain": "dailymotion.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 125,
+		"brand": "ask",
+		"domain": "ask.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 126,
+		"brand": "chinadaily",
+		"domain": "chinadaily.com.cn",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 127,
+		"brand": "nih",
+		"domain": "nih.gov",
+		"category": "Government and Legal Organizations"
+	},
+
+	{
+		"rank": 128,
+		"brand": "thepiratebay",
+		"domain": "thepiratebay.org",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 130,
+		"brand": "ntd",
+		"domain": "ntd.tv",
+		"category": "Political Organizations"
+	},
+
+	{
+		"rank": 131,
+		"brand": "nicovideo",
+		"domain": "nicovideo.jp",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 133,
+		"brand": "restorecosm",
+		"domain": "restorecosm.bid",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 134,
+		"brand": "vimeo",
+		"domain": "vimeo.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 135,
+		"brand": "salesforce",
+		"domain": "salesforce.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 136,
+		"brand": "spotify",
+		"domain": "spotify.com",
+		"category": "Internet Radio and TV"
+	},
+
+	{
+		"rank": 138,
+		"brand": "openload",
+		"domain": "openload.co",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 139,
+		"brand": "ettoday",
+		"domain": "ettoday.net",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 140,
+		"brand": "mozilla",
+		"domain": "mozilla.org",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 141,
+		"brand": "chase",
+		"domain": "chase.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 142,
+		"brand": "liputan6",
+		"domain": "liputan6.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 143,
+		"brand": "bukalapak",
+		"domain": "bukalapak.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 144,
+		"brand": "rakuten",
+		"domain": "rakuten.co.jp",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 145,
+		"brand": "roblox",
+		"domain": "roblox.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 146,
+		"brand": "speakol",
+		"domain": "speakol.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 147,
+		"brand": "aparat",
+		"domain": "aparat.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 148,
+		"brand": "jf71qh5v14",
+		"domain": "jf71qh5v14.com",
+		"category": "Phishing"
+	},
+
+	{
+		"rank": 150,
+		"brand": "naver",
+		"domain": "naver.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 151,
+		"brand": "kompas",
+		"domain": "kompas.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 152,
+		"brand": "slideshare",
+		"domain": "slideshare.net",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 153,
+		"brand": "avito",
+		"domain": "avito.ru",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 154,
+		"brand": "fc2",
+		"domain": "fc2.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 155,
+		"brand": "theguardian",
+		"domain": "theguardian.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 156,
+		"brand": "globo",
+		"domain": "globo.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 157,
+		"brand": "exdynsrv",
+		"domain": "exdynsrv.com",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 158,
+		"brand": "discordapp",
+		"domain": "discordapp.com",
+		"category": "Instant Messaging"
+	},
+
+	{
+		"rank": 160,
+		"brand": "indeed",
+		"domain": "indeed.com",
+		"category": "Job Search"
+	},
+
+	{
+		"rank": 161,
+		"brand": "dailymail",
+		"domain": "dailymail.co.uk",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 165,
+		"brand": "alibaba",
+		"domain": "alibaba.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 166,
+		"brand": "bles",
+		"domain": "bles.com",
+		"category": "Web Hosting"
+	},
+
+	{
+		"rank": 167,
+		"brand": "zhihu",
+		"domain": "zhihu.com",
+		"category": "Newsgroups and Message Boards"
+	},
+
+	{
+		"rank": 168,
+		"brand": "mediafire",
+		"domain": "mediafire.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 169,
+		"brand": "softonic",
+		"domain": "softonic.com",
+		"category": "Freeware and Software Downloads"
+	},
+
+	{
+		"rank": 171,
+		"brand": "douyu",
+		"domain": "douyu.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 172,
+		"brand": "theepochtimes",
+		"domain": "theepochtimes.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 173,
+		"brand": "force",
+		"domain": "force.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 174,
+		"brand": "uol",
+		"domain": "uol.com.br",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 175,
+		"brand": "vice",
+		"domain": "vice.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 177,
+		"brand": "deviantart",
+		"domain": "deviantart.com",
+		"category": "Arts and Culture"
+	},
+
+	{
+		"rank": 178,
+		"brand": "cnet",
+		"domain": "cnet.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 180,
+		"brand": "oath",
+		"domain": "oath.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 181,
+		"brand": "wikihow",
+		"domain": "wikihow.com",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 182,
+		"brand": "mercadolivre",
+		"domain": "mercadolivre.com.br",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 183,
+		"brand": "scribd",
+		"domain": "scribd.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 184,
+		"brand": "lifedaily",
+		"domain": "lifedaily.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 186,
+		"brand": "w3schools",
+		"domain": "w3schools.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 187,
+		"brand": "hotmovs",
+		"domain": "hotmovs.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 188,
+		"brand": "etsy",
+		"domain": "etsy.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 189,
+		"brand": "wetransfer",
+		"domain": "wetransfer.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 191,
+		"brand": "steamcommunity",
+		"domain": "steamcommunity.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 192,
+		"brand": "messenger",
+		"domain": "messenger.com",
+		"category": "Instant Messaging"
+	},
+
+	{
+		"rank": 193,
+		"brand": "yelp",
+		"domain": "yelp.com",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 194,
+		"brand": "blastingnews",
+		"domain": "blastingnews.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 195,
+		"brand": "walmart",
+		"domain": "walmart.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 196,
+		"brand": "rumble",
+		"domain": "rumble.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 198,
+		"brand": "doubleclick",
+		"domain": "doubleclick.net",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 199,
+		"brand": "indiatimes",
+		"domain": "indiatimes.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 201,
+		"brand": "babytree",
+		"domain": "babytree.com",
+		"category": "Society and Lifestyles"
+	},
+
+	{
+		"rank": 203,
+		"brand": "mama",
+		"domain": "mama.cn",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 204,
+		"brand": "sogou",
+		"domain": "sogou.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 205,
+		"brand": "china",
+		"domain": "china.com.cn",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 206,
+		"brand": "doublepimpssl",
+		"domain": "doublepimpssl.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 207,
+		"brand": "huanqiu",
+		"domain": "huanqiu.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 208,
+		"brand": "youporn",
+		"domain": "youporn.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 209,
+		"brand": "youm7",
+		"domain": "youm7.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 210,
+		"brand": "buzzfeed",
+		"domain": "buzzfeed.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 212,
+		"brand": "eastday",
+		"domain": "eastday.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 213,
+		"brand": "kumparan",
+		"domain": "kumparan.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 215,
+		"brand": "caijing",
+		"domain": "caijing.com.cn",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 217,
+		"brand": "nextoptim",
+		"domain": "nextoptim.com",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 218,
+		"brand": "rambler",
+		"domain": "rambler.ru",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 219,
+		"brand": "twimg",
+		"domain": "twimg.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 220,
+		"brand": "redtube",
+		"domain": "redtube.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 221,
+		"brand": "weather",
+		"domain": "weather.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 222,
+		"brand": "upornia",
+		"domain": "upornia.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 223,
+		"brand": "hdzog",
+		"domain": "hdzog.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 224,
+		"brand": "onlinevideoconverter",
+		"domain": "onlinevideoconverter.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 225,
+		"brand": "mega",
+		"domain": "mega.nz",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 226,
+		"brand": "yts",
+		"domain": "yts.am",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 227,
+		"brand": "hulu",
+		"domain": "hulu.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 228,
+		"brand": "crptentry",
+		"domain": "crptentry.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 229,
+		"brand": "zillow",
+		"domain": "zillow.com",
+		"category": "Real Estate"
+	},
+
+	{
+		"rank": 232,
+		"brand": "metropcs",
+		"domain": "metropcs.mobi",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 233,
+		"brand": "godaddy",
+		"domain": "godaddy.com",
+		"category": "Web Hosting"
+	},
+
+	{
+		"rank": 234,
+		"brand": "tripadvisor",
+		"domain": "tripadvisor.com",
+		"category": "Travel"
+	},
+
+	{
+		"rank": 235,
+		"brand": "attenhance",
+		"domain": "attenhance.com",
+		"category": "Meaningless Content"
+	},
+
+	{
+		"rank": 236,
+		"brand": "genius",
+		"domain": "genius.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 237,
+		"brand": "aliyun",
+		"domain": "aliyun.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 238,
+		"brand": "ladbible",
+		"domain": "ladbible.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 239,
+		"brand": "steampowered",
+		"domain": "steampowered.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 240,
+		"brand": "ltn",
+		"domain": "ltn.com.tw",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 242,
+		"brand": "bankofamerica",
+		"domain": "bankofamerica.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 243,
+		"brand": "slack",
+		"domain": "slack.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 244,
+		"brand": "washingtonpost",
+		"domain": "washingtonpost.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 245,
+		"brand": "medium",
+		"domain": "medium.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 247,
+		"brand": "bet365",
+		"domain": "bet365.com",
+		"category": "Gambling"
+	},
+
+	{
+		"rank": 248,
+		"brand": "merdeka",
+		"domain": "merdeka.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 249,
+		"brand": "researchgate",
+		"domain": "researchgate.net",
+		"category": "Education"
+	},
+
+	{
+		"rank": 250,
+		"brand": "trello",
+		"domain": "trello.com",
+		"category": "Web-based Applications"
+	},
+
+	{
+		"rank": 251,
+		"brand": "cricbuzz",
+		"domain": "cricbuzz.com",
+		"category": "Sports"
+	},
+
+	{
+		"rank": 252,
+		"brand": "livejournal",
+		"domain": "livejournal.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 253,
+		"brand": "hibids10",
+		"domain": "hibids10.com",
+		"category": "Meaningless Content"
+	},
+
+	{
+		"rank": 254,
+		"brand": "wellsfargo",
+		"domain": "wellsfargo.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 255,
+		"brand": "youdao",
+		"domain": "youdao.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 256,
+		"brand": "forbes",
+		"domain": "forbes.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 257,
+		"brand": "coinmarketcap",
+		"domain": "coinmarketcap.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 259,
+		"brand": "nownews",
+		"domain": "nownews.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 260,
+		"brand": "livedoor",
+		"domain": "livedoor.jp",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 261,
+		"brand": "sberbank",
+		"domain": "sberbank.ru",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 262,
+		"brand": "foxnews",
+		"domain": "foxnews.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 263,
+		"brand": "shutterstock",
+		"domain": "shutterstock.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 264,
+		"brand": "ebay-kleinanzeigen",
+		"domain": "ebay-kleinanzeigen.de",
+		"category": "Auction"
+	},
+
+	{
+		"rank": 265,
+		"brand": "archive",
+		"domain": "archive.org",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 266,
+		"brand": "hotstar",
+		"domain": "hotstar.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 267,
+		"brand": "gfycat",
+		"domain": "gfycat.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 268,
+		"brand": "irctc",
+		"domain": "irctc.co.in",
+		"category": "Travel"
+	},
+
+	{
+		"rank": 269,
+		"brand": "office365",
+		"domain": "office365.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 270,
+		"brand": "setn",
+		"domain": "setn.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 271,
+		"brand": "speedtest",
+		"domain": "speedtest.net",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 272,
+		"brand": "1337x",
+		"domain": "1337x.to",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 273,
+		"brand": "gmx",
+		"domain": "gmx.net",
+		"category": "Web-based Email"
+	},
+
+	{
+		"rank": 274,
+		"brand": "allegro",
+		"domain": "allegro.pl",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 275,
+		"brand": "bet9ja",
+		"domain": "bet9ja.com",
+		"category": "Gambling"
+	},
+
+	{
+		"rank": 279,
+		"brand": "duckduckgo",
+		"domain": "duckduckgo.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 280,
+		"brand": "xfinity",
+		"domain": "xfinity.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 281,
+		"brand": "theappsuniverse",
+		"domain": "theappsuniverse.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 282,
+		"brand": "abs-cbn",
+		"domain": "abs-cbn.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 283,
+		"brand": "padla",
+		"domain": "padla.xyz",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 284,
+		"brand": "digitaldsp",
+		"domain": "digitaldsp.com",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 285,
+		"brand": "varzesh3",
+		"domain": "varzesh3.com",
+		"category": "Sports"
+	},
+
+	{
+		"rank": 286,
+		"brand": "breitbart",
+		"domain": "breitbart.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 287,
+		"brand": "9gag",
+		"domain": "9gag.com",
+		"category": "Other Adult Materials"
+	},
+
+	{
+		"rank": 288,
+		"brand": "leboncoin",
+		"domain": "leboncoin.fr",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 289,
+		"brand": "freepik",
+		"domain": "freepik.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 290,
+		"brand": "airbnb",
+		"domain": "airbnb.com",
+		"category": "Travel"
+	},
+
+	{
+		"rank": 291,
+		"brand": "hola",
+		"domain": "hola.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 292,
+		"brand": "ikea",
+		"domain": "ikea.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 293,
+		"brand": "exoclick",
+		"domain": "exoclick.com",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 296,
+		"brand": "hclips",
+		"domain": "hclips.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 298,
+		"brand": "thewhizmarketing",
+		"domain": "thewhizmarketing.com",
+		"category": "Malicious Websites"
+	},
+
+	{
+		"rank": 300,
+		"brand": "web",
+		"domain": "web.de",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 301,
+		"brand": "patria",
+		"domain": "patria.org.ve",
+		"category": "General Organizations"
+	},
+
+	{
+		"rank": 302,
+		"brand": "reverso",
+		"domain": "reverso.net",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 303,
+		"brand": "kissanime",
+		"domain": "kissanime.ru",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 305,
+		"brand": "bilibili",
+		"domain": "bilibili.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 306,
+		"brand": "wordreference",
+		"domain": "wordreference.com",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 307,
+		"brand": "digikala",
+		"domain": "digikala.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 308,
+		"brand": "gamespot",
+		"domain": "gamespot.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 309,
+		"brand": "orange",
+		"domain": "orange.fr",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 310,
+		"brand": "constintptr",
+		"domain": "constintptr.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 311,
+		"brand": "blogger",
+		"domain": "blogger.com",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 312,
+		"brand": "livermony",
+		"domain": "livermony.info",
+		"category": "Meaningless Content"
+	},
+
+	{
+		"rank": 313,
+		"brand": "ci123",
+		"domain": "ci123.com",
+		"category": "Society and Lifestyles"
+	},
+
+	{
+		"rank": 314,
+		"brand": "doublepimp",
+		"domain": "doublepimp.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 316,
+		"brand": "people",
+		"domain": "people.com.cn",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 317,
+		"brand": "ameblo",
+		"domain": "ameblo.jp",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 318,
+		"brand": "cnblogs",
+		"domain": "cnblogs.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 319,
+		"brand": "canva",
+		"domain": "canva.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 320,
+		"brand": "dmm",
+		"domain": "dmm.co.jp",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 321,
+		"brand": "kakaku",
+		"domain": "kakaku.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 322,
+		"brand": "rednet",
+		"domain": "rednet.cn",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 323,
+		"brand": "weebly",
+		"domain": "weebly.com",
+		"category": "Web Hosting"
+	},
+
+	{
+		"rank": 324,
+		"brand": "zippyshare",
+		"domain": "zippyshare.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 325,
+		"brand": "rt",
+		"domain": "rt.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 326,
+		"brand": "sourceforge",
+		"domain": "sourceforge.net",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 327,
+		"brand": "banvenez",
+		"domain": "banvenez.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 328,
+		"brand": "blackboard",
+		"domain": "blackboard.com",
+		"category": "Education"
+	},
+
+	{
+		"rank": 329,
+		"brand": "wikimedia",
+		"domain": "wikimedia.org",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 331,
+		"brand": "tvbs",
+		"domain": "tvbs.com.tw",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 332,
+		"brand": "aol",
+		"domain": "aol.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 333,
+		"brand": "thesaurus",
+		"domain": "thesaurus.com",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 334,
+		"brand": "ign",
+		"domain": "ign.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 335,
+		"brand": "mercadolibre",
+		"domain": "mercadolibre.com.ar",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 336,
+		"brand": "rutracker",
+		"domain": "rutracker.org",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 337,
+		"brand": "haber7",
+		"domain": "haber7.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 339,
+		"brand": "cloudfront",
+		"domain": "cloudfront.net",
+		"category": "Content Servers"
+	},
+
+	{
+		"rank": 340,
+		"brand": "accuweather",
+		"domain": "accuweather.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 341,
+		"brand": "uzone",
+		"domain": "uzone.id",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 343,
+		"brand": "gismeteo",
+		"domain": "gismeteo.ru",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 344,
+		"brand": "okta",
+		"domain": "okta.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 346,
+		"brand": "jrj",
+		"domain": "jrj.com.cn",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 347,
+		"brand": "huffingtonpost",
+		"domain": "huffingtonpost.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 348,
+		"brand": "udemy",
+		"domain": "udemy.com",
+		"category": "Education"
+	},
+
+	{
+		"rank": 349,
+		"brand": "atlassian",
+		"domain": "atlassian.net",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 350,
+		"brand": "sabah",
+		"domain": "sabah.com.tr",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 351,
+		"brand": "goodreads",
+		"domain": "goodreads.com",
+		"category": "Arts and Culture"
+	},
+
+	{
+		"rank": 353,
+		"brand": "usps",
+		"domain": "usps.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 354,
+		"brand": "olx",
+		"domain": "olx.ua",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 355,
+		"brand": "oracle",
+		"domain": "oracle.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 356,
+		"brand": "line",
+		"domain": "line.me",
+		"category": "Instant Messaging"
+	},
+
+	{
+		"rank": 357,
+		"brand": "behance",
+		"domain": "behance.net",
+		"category": "Business"
+	},
+
+	{
+		"rank": 358,
+		"brand": "homedepot",
+		"domain": "homedepot.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 359,
+		"brand": "epicgames",
+		"domain": "epicgames.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 360,
+		"brand": "hp",
+		"domain": "hp.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 361,
+		"brand": "pinimg",
+		"domain": "pinimg.com",
+		"category": "Content Servers"
+	},
+
+	{
+		"rank": 362,
+		"brand": "icloud",
+		"domain": "icloud.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 363,
+		"brand": "bestbuy",
+		"domain": "bestbuy.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 365,
+		"brand": "k618",
+		"domain": "k618.cn",
+		"category": "Education"
+	},
+
+	{
+		"rank": 366,
+		"brand": "myway",
+		"domain": "myway.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 367,
+		"brand": "kinopoisk",
+		"domain": "kinopoisk.ru",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 368,
+		"brand": "exosrv",
+		"domain": "exosrv.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 369,
+		"brand": "rarbg",
+		"domain": "rarbg.to",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 370,
+		"brand": "outbrain",
+		"domain": "outbrain.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 372,
+		"brand": "siteadvisor",
+		"domain": "siteadvisor.com",
+		"category": "Information and Computer Security"
+	},
+
+	{
+		"rank": 373,
+		"brand": "businessinsider",
+		"domain": "businessinsider.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 374,
+		"brand": "telegram",
+		"domain": "telegram.org",
+		"category": "Instant Messaging"
+	},
+
+	{
+		"rank": 375,
+		"brand": "flickr",
+		"domain": "flickr.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 376,
+		"brand": "ups",
+		"domain": "ups.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 377,
+		"brand": "bldaily",
+		"domain": "bldaily.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 378,
+		"brand": "glassdoor",
+		"domain": "glassdoor.com",
+		"category": "Job Search"
+	},
+
+	{
+		"rank": 379,
+		"brand": "patreon",
+		"domain": "patreon.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 380,
+		"brand": "kaskus",
+		"domain": "kaskus.co.id",
+		"category": "Newsgroups and Message Boards"
+	},
+
+	{
+		"rank": 381,
+		"brand": "gmw",
+		"domain": "gmw.cn",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 382,
+		"brand": "momoshop",
+		"domain": "momoshop.com.tw",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 383,
+		"brand": "intuit",
+		"domain": "intuit.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 384,
+		"brand": "userapi",
+		"domain": "userapi.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 385,
+		"brand": "asos",
+		"domain": "asos.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 386,
+		"brand": "sindonews",
+		"domain": "sindonews.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 388,
+		"brand": "onet",
+		"domain": "onet.pl",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 389,
+		"brand": "ouo",
+		"domain": "ouo.io",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 390,
+		"brand": "americanexpress",
+		"domain": "americanexpress.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 391,
+		"brand": "dell",
+		"domain": "dell.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 392,
+		"brand": "uptodown",
+		"domain": "uptodown.com",
+		"category": "Freeware and Software Downloads"
+	},
+
+	{
+		"rank": 393,
+		"brand": "newsprofin",
+		"domain": "newsprofin.com",
+		"category": "Phishing"
+	},
+
+	{
+		"rank": 394,
+		"brand": "capitalone",
+		"domain": "capitalone.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 395,
+		"brand": "humblebundle",
+		"domain": "humblebundle.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 396,
+		"brand": "bitauto",
+		"domain": "bitauto.com",
+		"category": "Personal Vehicles"
+	},
+
+	{
+		"rank": 397,
+		"brand": "box",
+		"domain": "box.com",
+		"category": "File Sharing and Storage"
+	},
+
+	{
+		"rank": 398,
+		"brand": "feedly",
+		"domain": "feedly.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 399,
+		"brand": "wp",
+		"domain": "wp.pl",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 400,
+		"brand": "mmoframes",
+		"domain": "mmoframes.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 401,
+		"brand": "spotscenered",
+		"domain": "spotscenered.info",
+		"category": "Domain Parking"
+	},
+
+	{
+		"rank": 402,
+		"brand": "cambridge",
+		"domain": "cambridge.org",
+		"category": "Education"
+	},
+
+	{
+		"rank": 403,
+		"brand": "hdfcbank",
+		"domain": "hdfcbank.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 404,
+		"brand": "zendesk",
+		"domain": "zendesk.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 405,
+		"brand": "friv",
+		"domain": "friv.com",
+		"category": "Games"
+	},
+
+	{
+		"rank": 406,
+		"brand": "ndtv",
+		"domain": "ndtv.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 407,
+		"brand": "skype",
+		"domain": "skype.com",
+		"category": "Internet Telephony"
+	},
+
+	{
+		"rank": 408,
+		"brand": "epochtimes",
+		"domain": "epochtimes.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 409,
+		"brand": "gearbest",
+		"domain": "gearbest.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 410,
+		"brand": "independent",
+		"domain": "independent.co.uk",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 411,
+		"brand": "igmatik",
+		"domain": "igmatik.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 412,
+		"brand": "velocecdn",
+		"domain": "velocecdn.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 413,
+		"brand": "free",
+		"domain": "free.fr",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 414,
+		"brand": "ebc",
+		"domain": "ebc.net.tw",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 415,
+		"brand": "samsung",
+		"domain": "samsung.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 416,
+		"brand": "mailchimp",
+		"domain": "mailchimp.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 417,
+		"brand": "espncricinfo",
+		"domain": "espncricinfo.com",
+		"category": "Sports"
+	},
+
+	{
+		"rank": 418,
+		"brand": "manoramaonline",
+		"domain": "manoramaonline.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 420,
+		"brand": "slickdeals",
+		"domain": "slickdeals.net",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 421,
+		"brand": "fedex",
+		"domain": "fedex.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 422,
+		"brand": "okdiario",
+		"domain": "okdiario.com",
+		"category": "Travel"
+	},
+
+	{
+		"rank": 423,
+		"brand": "target",
+		"domain": "target.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 424,
+		"brand": "subscene",
+		"domain": "subscene.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 425,
+		"brand": "prezi",
+		"domain": "prezi.com",
+		"category": "Web-based Applications"
+	},
+
+	{
+		"rank": 426,
+		"brand": "zoom",
+		"domain": "zoom.us",
+		"category": "Online Meeting"
+	},
+
+	{
+		"rank": 427,
+		"brand": "t-online",
+		"domain": "t-online.de",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 428,
+		"brand": "mi",
+		"domain": "mi.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 429,
+		"brand": "dcinside",
+		"domain": "dcinside.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 430,
+		"brand": "shein",
+		"domain": "shein.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 431,
+		"brand": "repubblica",
+		"domain": "repubblica.it",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 432,
+		"brand": "seasonvar",
+		"domain": "seasonvar.ru",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 433,
+		"brand": "wix",
+		"domain": "wix.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 434,
+		"brand": "ibestmmorpg",
+		"domain": "ibestmmorpg.com",
+		"category": "Meaningless Content"
+	},
+
+	{
+		"rank": 435,
+		"brand": "indoxx1",
+		"domain": "indoxx1.com",
+		"category": "Illegal or Unethical"
+	},
+
+	{
+		"rank": 436,
+		"brand": "popcash",
+		"domain": "popcash.net",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 437,
+		"brand": "idntimes",
+		"domain": "idntimes.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 438,
+		"brand": "googlevideo",
+		"domain": "googlevideo.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 439,
+		"brand": "gizmodo",
+		"domain": "gizmodo.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 440,
+		"brand": "myanimelist",
+		"domain": "myanimelist.net",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 441,
+		"brand": "elpais",
+		"domain": "elpais.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 442,
+		"brand": "cnnindonesia",
+		"domain": "cnnindonesia.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 443,
+		"brand": "wiktionary",
+		"domain": "wiktionary.org",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 444,
+		"brand": "beeg",
+		"domain": "beeg.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 445,
+		"brand": "theverge",
+		"domain": "theverge.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 446,
+		"brand": "list-manage",
+		"domain": "list-manage.com",
+		"category": "Advertising"
+	},
+
+	{
+		"rank": 447,
+		"brand": "goo",
+		"domain": "goo.ne.jp",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 448,
+		"brand": "bloomberg",
+		"domain": "bloomberg.com",
+		"category": "Finance and Banking"
+	},
+
+	{
+		"rank": 449,
+		"brand": "primevideo",
+		"domain": "primevideo.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 450,
+		"brand": "17ok",
+		"domain": "17ok.com",
+		"category": "Brokerage and Trading"
+	},
+
+	{
+		"rank": 452,
+		"brand": "mit",
+		"domain": "mit.edu",
+		"category": "Education"
+	},
+
+	{
+		"rank": 453,
+		"brand": "webex",
+		"domain": "webex.com",
+		"category": "Online Meeting"
+	},
+
+	{
+		"rank": 455,
+		"brand": "seznam",
+		"domain": "seznam.cz",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 456,
+		"brand": "taleo",
+		"domain": "taleo.net",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 457,
+		"brand": "mysearch",
+		"domain": "mysearch.com",
+		"category": "Malicious Websites"
+	},
+
+	{
+		"rank": 458,
+		"brand": "nike",
+		"domain": "nike.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 459,
+		"brand": "libero",
+		"domain": "libero.it",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 460,
+		"brand": "nur",
+		"domain": "nur.kz",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 461,
+		"brand": "wish",
+		"domain": "wish.com",
+		"category": "Shopping"
+	},
+
+	{
+		"rank": 462,
+		"brand": "rediff",
+		"domain": "rediff.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 463,
+		"brand": "dictionary",
+		"domain": "dictionary.com",
+		"category": "Reference"
+	},
+
+	{
+		"rank": 464,
+		"brand": "sex",
+		"domain": "sex.com",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 465,
+		"brand": "yourporn",
+		"domain": "yourporn.sexy",
+		"category": "Pornography"
+	},
+
+	{
+		"rank": 466,
+		"brand": "informationvine",
+		"domain": "informationvine.com",
+		"category": "Search Engines and Portals"
+	},
+
+	{
+		"rank": 467,
+		"brand": "spiegel",
+		"domain": "spiegel.de",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 468,
+		"brand": "debate",
+		"domain": "debate.com.mx",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 470,
+		"brand": "cdninstagram",
+		"domain": "cdninstagram.com",
+		"category": "Social Networking"
+	},
+
+	{
+		"rank": 471,
+		"brand": "ieee",
+		"domain": "ieee.org",
+		"category": "General Organizations"
+	},
+
+	{
+		"rank": 473,
+		"brand": "usatoday",
+		"domain": "usatoday.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 474,
+		"brand": "vidio",
+		"domain": "vidio.com",
+		"category": "Streaming Media and Download"
+	},
+
+	{
+		"rank": 475,
+		"brand": "surveymonkey",
+		"domain": "surveymonkey.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 476,
+		"brand": "rottentomatoes",
+		"domain": "rottentomatoes.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 477,
+		"brand": "ria",
+		"domain": "ria.ru",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 478,
+		"brand": "telewebion",
+		"domain": "telewebion.com",
+		"category": "Internet Radio and TV"
+	},
+
+	{
+		"rank": 479,
+		"brand": "shaparak",
+		"domain": "shaparak.ir",
+		"category": "General Organizations"
+	},
+
+	{
+		"rank": 481,
+		"brand": "ensonhaber",
+		"domain": "ensonhaber.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 482,
+		"brand": "gosuslugi",
+		"domain": "gosuslugi.ru",
+		"category": "Government and Legal Organizations"
+	},
+
+	{
+		"rank": 483,
+		"brand": "uidai",
+		"domain": "uidai.gov.in",
+		"category": "Government and Legal Organizations"
+	},
+
+	{
+		"rank": 484,
+		"brand": "ultimate-guitar",
+		"domain": "ultimate-guitar.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 485,
+		"brand": "biobiochile",
+		"domain": "biobiochile.cl",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 486,
+		"brand": "urbandictionary",
+		"domain": "urbandictionary.com",
+		"category": "Other Adult Materials"
+	},
+
+	{
+		"rank": 487,
+		"brand": "lapatilla",
+		"domain": "lapatilla.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 488,
+		"brand": "ibm",
+		"domain": "ibm.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 489,
+		"brand": "mrnrnyavzcatfv",
+		"domain": "mrnrnyavzcatfv.com",
+		"category": "Newly Observed Domain"
+	},
+
+	{
+		"rank": 490,
+		"brand": "nextlnk1",
+		"domain": "nextlnk1.com",
+		"category": "Malicious Websites"
+	},
+
+	{
+		"rank": 491,
+		"brand": "giphy",
+		"domain": "giphy.com",
+		"category": "Entertainment"
+	},
+
+	{
+		"rank": 494,
+		"brand": "104",
+		"domain": "104.com.tw",
+		"category": "Job Search"
+	},
+
+	{
+		"rank": 495,
+		"brand": "blog",
+		"domain": "blog.jp",
+		"category": "Personal Websites and Blogs"
+	},
+
+	{
+		"rank": 496,
+		"brand": "wixsite",
+		"domain": "wixsite.com",
+		"category": "Information Technology"
+	},
+
+	{
+		"rank": 497,
+		"brand": "albawabhnews",
+		"domain": "albawabhnews.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 498,
+		"brand": "emol",
+		"domain": "emol.com",
+		"category": "News and Media"
+	},
+
+	{
+		"rank": 499,
+		"brand": "adp",
+		"domain": "adp.com",
+		"category": "Business"
+	},
+
+	{
+		"rank": 500,
+		"brand": "alicdn",
+		"domain": "alicdn.com",
+		"category": "Business"
+	}
+]

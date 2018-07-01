@@ -1,0 +1,80 @@
+_______   _______        ____      _______      _____      _____    _______
+|      \  |             /    \     |      \     |    \    /    |    |
+|_____ /  |            /      \    |       \    |     \  /     |    |
+|  \      |-----      / ______ \   |       |    |      \/      |    |-----
+|   \     |          /          \  |       /    |              |    |
+|    \    |______   /            \ |______/     |              |    |_______
+
+
+Filepath for the Alexa top 1 million domains is as follows:
+/export/sec/research_projects/malicious_domain_detection/raw_data/groundtruth/virustotal/Alexa-top-k/Alexa_topk_each_day/alexa-top-1m_20180516071020
+
+Alternatively, use the following file as input:
+inputData-alexa20180516
+
+##############################################################
+
+INSTRUCTIONS FOR PROGRAM USE:
+1) Open your CLI of choice and after changing directory to 'top-brands', type: python main.py
+2) Run main.py, this takes in 3 inputs:
+	a) One is a TSV txt file. One has been included for you: inputData-alexa20180513
+	b) The other is a count limit, the suggested amount is 500 but limit it to less than 10 for testing.
+	c) The third is a date in the following format: YYYYMMDD
+3) Change the directory to 'dnstwist-master'
+4) There are three different python functions:
+	a) dnstwist.py is the original dnstwist project cloned from github.com/elceef
+	b) central_dnstwist.py is the first file I wrote that takes in the same input as 2a) and 2b) and stores this information in the MongoDB in a collection
+	c) unique_dnstwist_domains.py is the second file that creates a different collection in the MongoDB and either inserts or updates values.
+
+##############################################################
+
+SOME PYMONGO FUNCTIONS ARE AS FOLLOWS:
+Always import pymongo
+To connect to the database, type out the following:
+		client = pymongo.MongoClient("mongodb://squatting:squatting123@10.2.4.231/squatting_db")
+		db = client.squatting_db
+Commands will be: db.<collection>.command()
+		to see the list of collections: db.<collection>_names()
+    to insert an object: db.<collection>.insert({...})
+    to find: db.<collection>.find_one({...})
+    to find with filters: db.<collection>.find({...})
+        e.g. for items in db.<collection>.find({"rank": {"$gte": 1, "$lte": 10}}).sort("brand") // to find websites with rank between 1-10 sorted by brand
+        e.g. for items in db.<collection>.find().distinct("category") // to get a list of all the distinct categories
+    to update a value: db.<collection>.update_one({"identifying parameter"}, {"$set": {updated value}})
+    to remove an object from collection: db.<collection>.remove({...}) // Preferable to use ID to delete information
+    to delete collection: db.<collection>.drop()
+
+
+IF RUNNING THE MONGODB DIRECTLY FROM VM 10.2.4.231:
+Type in the following commands to use the database: squatting_db
+		1) mongo
+		2) use squatting_db
+		3) db.auth("squatting", "squatting123")
+An assortment of commands are as follows
+		a) show collections // to see a list of collections
+		b) db.<collection>.drop() // to delete a collection
+		c) db.combosquatting_20180523.find({"result_last_seen.rrname": "facebook.com."}).pretty()
+		d) db.combosquatting_20180523.find({"result_last_seen.time_last": {"$gte": 1526931790}}).pretty()
+		Note:
+				.pretty() at the end prints the document all nice and pretty // See example c)
+				to search for subdocuments, use a '.' to append all document categories inside a " ..." // See example c)
+
+##############################################################
+
+SOME PSYCOPG2 FUNCTIONS ARE AS FOLLOWS:
+Always import psycopg2
+To connect to the database, type out the following:
+		conn = psycopg2.connect(database=databasename, user="postgres", password="postgres",port=5432)
+	  cursor = conn.cursor()
+
+
+IF RUNNING THE POSTGRESQL DIRECTLY FROM CLI IN VM 10.2.4.195
+Type in the following commands into the terminal:
+		1) psql -U postgres -d phishing
+		2) Enter the password: ('postgres')
+		3) \d
+		4) \d phishtank
+An assortment of commands is as follows:
+		a) \q to exit PostgreSQL
+
+##############################################################

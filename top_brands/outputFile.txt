@@ -1,0 +1,420 @@
+Rank	Brand	Domain	Category
+1	google	google.com	Search Engines and Portals
+2	youtube	youtube.com	Streaming Media and Download
+3	facebook	facebook.com	Social Networking
+4	baidu	baidu.com	Search Engines and Portals
+5	wikipedia	wikipedia.org	Reference
+6	reddit	reddit.com	Newsgroups and Message Boards
+7	yahoo	yahoo.com	Search Engines and Portals
+8	qq	qq.com	Search Engines and Portals
+9	amazon	amazon.com	Shopping
+10	taobao	taobao.com	Shopping
+12	sohu	sohu.com	Search Engines and Portals
+13	twitter	twitter.com	Social Networking
+14	tmall	tmall.com	Shopping
+15	live	live.com	Search Engines and Portals
+16	instagram	instagram.com	Social Networking
+17	vk	vk.com	Social Networking
+18	jd	jd.com	Shopping
+20	sina	sina.com.cn	Search Engines and Portals
+21	weibo	weibo.com	Social Networking
+22	yandex	yandex.ru	Search Engines and Portals
+23	360	360.cn	Information Technology
+29	pornhub	pornhub.com	Pornography
+30	netflix	netflix.com	Streaming Media and Download
+31	twitch	twitch.tv	Games
+32	linkedin	linkedin.com	Business
+35	office	office.com	Information Technology
+37	csdn	csdn.net	Information Technology
+38	microsoft	microsoft.com	Information Technology
+39	t	t.co	Information Technology
+40	microsoftonline	microsoftonline.com	Information Technology
+41	ebay	ebay.com	Auction
+42	bing	bing.com	Search Engines and Portals
+43	msn	msn.com	Search Engines and Portals
+45	mail	mail.ru	Web-based Email
+46	alipay	alipay.com	Finance and Banking
+48	tribunnews	tribunnews.com	News and Media
+49	xvideos	xvideos.com	Pornography
+50	ok	ok.ru	Social Networking
+51	livejasmin	livejasmin.com	Pornography
+52	imgur	imgur.com	File Sharing and Storage
+53	aliexpress	aliexpress.com	Shopping
+54	whatsapp	whatsapp.com	Instant Messaging
+57	wordpress	wordpress.com	Personal Websites and Blogs
+58	stackoverflow	stackoverflow.com	Information Technology
+60	tumblr	tumblr.com	Personal Websites and Blogs
+61	imdb	imdb.com	Entertainment
+62	github	github.com	Information Technology
+63	wikia	wikia.com	Entertainment
+64	youth	youth.cn	Search Engines and Portals
+66	hao123	hao123.com	Search Engines and Portals
+67	blogspot	blogspot.com	Personal Websites and Blogs
+69	xhamster	xhamster.com	Pornography
+72	providr	providr.com	Entertainment
+73	paypal	paypal.com	Finance and Banking
+74	googleusercontent	googleusercontent.com	Content Servers
+75	apple	apple.com	Information Technology
+76	deloton	deloton.com	Advertising
+77	bongacams	bongacams.com	Pornography
+78	adobe	adobe.com	Information Technology
+79	pinterest	pinterest.com	Social Networking
+80	detik	detik.com	News and Media
+81	diply	diply.com	Personal Websites and Blogs
+82	coccoc	coccoc.com	Search Engines and Portals
+83	savefrom	savefrom.net	Streaming Media and Download
+86	xnxx	xnxx.com	Pornography
+87	fbcdn	fbcdn.net	Social Networking
+89	txxx	txxx.com	Pornography
+90	dropbox	dropbox.com	File Sharing and Storage
+92	quora	quora.com	Reference
+93	pixnet	pixnet.net	Personal Websites and Blogs
+95	thestartmagazine	thestartmagazine.com	News and Media
+97	bbc	bbc.com	News and Media
+98	soso	soso.com	Search Engines and Portals
+99	popads	popads.net	Advertising
+101	tokopedia	tokopedia.com	Shopping
+102	dkn	dkn.tv	Information Technology
+103	booking	booking.com	Travel
+104	tianya	tianya.cn	Newsgroups and Message Boards
+105	craigslist	craigslist.org	Shopping
+108	chaturbate	chaturbate.com	Pornography
+110	cnn	cnn.com	News and Media
+111	amazonaws	amazonaws.com	Information Technology
+112	espn	espn.com	Sports
+113	flipkart	flipkart.com	Shopping
+114	so	so.com	Search Engines and Portals
+115	soundcloud	soundcloud.com	Streaming Media and Download
+117	xinhuanet	xinhuanet.com	News and Media
+119	stackexchange	stackexchange.com	Information Technology
+120	nytimes	nytimes.com	News and Media
+121	onlinesbi	onlinesbi.com	Finance and Banking
+122	1688	1688.com	Shopping
+124	dailymotion	dailymotion.com	Streaming Media and Download
+125	ask	ask.com	Search Engines and Portals
+126	chinadaily	chinadaily.com.cn	News and Media
+127	nih	nih.gov	Government and Legal Organizations
+128	thepiratebay	thepiratebay.org	Illegal or Unethical
+130	ntd	ntd.tv	Political Organizations
+131	nicovideo	nicovideo.jp	Streaming Media and Download
+133	restorecosm	restorecosm.bid	Advertising
+134	vimeo	vimeo.com	Streaming Media and Download
+135	salesforce	salesforce.com	Information Technology
+136	spotify	spotify.com	Internet Radio and TV
+138	openload	openload.co	File Sharing and Storage
+139	ettoday	ettoday.net	News and Media
+140	mozilla	mozilla.org	Information Technology
+141	chase	chase.com	Finance and Banking
+142	liputan6	liputan6.com	News and Media
+143	bukalapak	bukalapak.com	Shopping
+144	rakuten	rakuten.co.jp	Shopping
+145	roblox	roblox.com	Games
+146	speakol	speakol.com	Business
+147	aparat	aparat.com	Streaming Media and Download
+148	jf71qh5v14	jf71qh5v14.com	Phishing
+150	naver	naver.com	Search Engines and Portals
+151	kompas	kompas.com	News and Media
+152	slideshare	slideshare.net	File Sharing and Storage
+153	avito	avito.ru	Shopping
+154	fc2	fc2.com	Information Technology
+155	theguardian	theguardian.com	News and Media
+156	globo	globo.com	News and Media
+157	exdynsrv	exdynsrv.com	Advertising
+158	discordapp	discordapp.com	Instant Messaging
+160	indeed	indeed.com	Job Search
+161	dailymail	dailymail.co.uk	News and Media
+165	alibaba	alibaba.com	Business
+166	bles	bles.com	Web Hosting
+167	zhihu	zhihu.com	Newsgroups and Message Boards
+168	mediafire	mediafire.com	File Sharing and Storage
+169	softonic	softonic.com	Freeware and Software Downloads
+171	douyu	douyu.com	Games
+172	theepochtimes	theepochtimes.com	News and Media
+173	force	force.com	Information Technology
+174	uol	uol.com.br	Search Engines and Portals
+175	vice	vice.com	News and Media
+177	deviantart	deviantart.com	Arts and Culture
+178	cnet	cnet.com	Information Technology
+180	oath	oath.com	Business
+181	wikihow	wikihow.com	Reference
+182	mercadolivre	mercadolivre.com.br	Shopping
+183	scribd	scribd.com	File Sharing and Storage
+184	lifedaily	lifedaily.com	Entertainment
+186	w3schools	w3schools.com	Information Technology
+187	hotmovs	hotmovs.com	Pornography
+188	etsy	etsy.com	Shopping
+189	wetransfer	wetransfer.com	File Sharing and Storage
+191	steamcommunity	steamcommunity.com	Games
+192	messenger	messenger.com	Instant Messaging
+193	yelp	yelp.com	Reference
+194	blastingnews	blastingnews.com	News and Media
+195	walmart	walmart.com	Shopping
+196	rumble	rumble.com	File Sharing and Storage
+198	doubleclick	doubleclick.net	Advertising
+199	indiatimes	indiatimes.com	News and Media
+201	babytree	babytree.com	Society and Lifestyles
+203	mama	mama.cn	Social Networking
+204	sogou	sogou.com	Search Engines and Portals
+205	china	china.com.cn	Search Engines and Portals
+206	doublepimpssl	doublepimpssl.com	Information Technology
+207	huanqiu	huanqiu.com	News and Media
+208	youporn	youporn.com	Pornography
+209	youm7	youm7.com	News and Media
+210	buzzfeed	buzzfeed.com	News and Media
+212	eastday	eastday.com	News and Media
+213	kumparan	kumparan.com	Information Technology
+215	caijing	caijing.com.cn	Finance and Banking
+217	nextoptim	nextoptim.com	Advertising
+218	rambler	rambler.ru	Search Engines and Portals
+219	twimg	twimg.com	Social Networking
+220	redtube	redtube.com	Pornography
+221	weather	weather.com	News and Media
+222	upornia	upornia.com	Pornography
+223	hdzog	hdzog.com	Pornography
+224	onlinevideoconverter	onlinevideoconverter.com	Streaming Media and Download
+225	mega	mega.nz	File Sharing and Storage
+226	yts	yts.am	Illegal or Unethical
+227	hulu	hulu.com	Streaming Media and Download
+228	crptentry	crptentry.com	Pornography
+229	zillow	zillow.com	Real Estate
+232	metropcs	metropcs.mobi	News and Media
+233	godaddy	godaddy.com	Web Hosting
+234	tripadvisor	tripadvisor.com	Travel
+235	attenhance	attenhance.com	Meaningless Content
+236	genius	genius.com	Entertainment
+237	aliyun	aliyun.com	Information Technology
+238	ladbible	ladbible.com	Personal Websites and Blogs
+239	steampowered	steampowered.com	Games
+240	ltn	ltn.com.tw	News and Media
+242	bankofamerica	bankofamerica.com	Finance and Banking
+243	slack	slack.com	Information Technology
+244	washingtonpost	washingtonpost.com	News and Media
+245	medium	medium.com	News and Media
+247	bet365	bet365.com	Gambling
+248	merdeka	merdeka.com	News and Media
+249	researchgate	researchgate.net	Education
+250	trello	trello.com	Web-based Applications
+251	cricbuzz	cricbuzz.com	Sports
+252	livejournal	livejournal.com	Personal Websites and Blogs
+253	hibids10	hibids10.com	Meaningless Content
+254	wellsfargo	wellsfargo.com	Finance and Banking
+255	youdao	youdao.com	Search Engines and Portals
+256	forbes	forbes.com	Finance and Banking
+257	coinmarketcap	coinmarketcap.com	Finance and Banking
+259	nownews	nownews.com	News and Media
+260	livedoor	livedoor.jp	Search Engines and Portals
+261	sberbank	sberbank.ru	Finance and Banking
+262	foxnews	foxnews.com	News and Media
+263	shutterstock	shutterstock.com	Business
+264	ebay-kleinanzeigen	ebay-kleinanzeigen.de	Auction
+265	archive	archive.org	Reference
+266	hotstar	hotstar.com	Streaming Media and Download
+267	gfycat	gfycat.com	Entertainment
+268	irctc	irctc.co.in	Travel
+269	office365	office365.com	Information Technology
+270	setn	setn.com	News and Media
+271	speedtest	speedtest.net	Information Technology
+272	1337x	1337x.to	Illegal or Unethical
+273	gmx	gmx.net	Web-based Email
+274	allegro	allegro.pl	Shopping
+275	bet9ja	bet9ja.com	Gambling
+279	duckduckgo	duckduckgo.com	Search Engines and Portals
+280	xfinity	xfinity.com	Information Technology
+281	theappsuniverse	theappsuniverse.com	Information Technology
+282	abs-cbn	abs-cbn.com	Information Technology
+283	padla	padla.xyz	Information Technology
+284	digitaldsp	digitaldsp.com	Advertising
+285	varzesh3	varzesh3.com	Sports
+286	breitbart	breitbart.com	News and Media
+287	9gag	9gag.com	Other Adult Materials
+288	leboncoin	leboncoin.fr	Shopping
+289	freepik	freepik.com	Business
+290	airbnb	airbnb.com	Travel
+291	hola	hola.com	Entertainment
+292	ikea	ikea.com	Shopping
+293	exoclick	exoclick.com	Advertising
+296	hclips	hclips.com	Pornography
+298	thewhizmarketing	thewhizmarketing.com	Malicious Websites
+300	web	web.de	Search Engines and Portals
+301	patria	patria.org.ve	General Organizations
+302	reverso	reverso.net	Reference
+303	kissanime	kissanime.ru	Streaming Media and Download
+305	bilibili	bilibili.com	Streaming Media and Download
+306	wordreference	wordreference.com	Reference
+307	digikala	digikala.com	Information Technology
+308	gamespot	gamespot.com	Games
+309	orange	orange.fr	Information Technology
+310	constintptr	constintptr.com	Information Technology
+311	blogger	blogger.com	Personal Websites and Blogs
+312	livermony	livermony.info	Meaningless Content
+313	ci123	ci123.com	Society and Lifestyles
+314	doublepimp	doublepimp.com	Pornography
+316	people	people.com.cn	News and Media
+317	ameblo	ameblo.jp	Personal Websites and Blogs
+318	cnblogs	cnblogs.com	Information Technology
+319	canva	canva.com	Information Technology
+320	dmm	dmm.co.jp	Pornography
+321	kakaku	kakaku.com	Shopping
+322	rednet	rednet.cn	Search Engines and Portals
+323	weebly	weebly.com	Web Hosting
+324	zippyshare	zippyshare.com	File Sharing and Storage
+325	rt	rt.com	News and Media
+326	sourceforge	sourceforge.net	Information Technology
+327	banvenez	banvenez.com	Finance and Banking
+328	blackboard	blackboard.com	Education
+329	wikimedia	wikimedia.org	Reference
+331	tvbs	tvbs.com.tw	Entertainment
+332	aol	aol.com	Search Engines and Portals
+333	thesaurus	thesaurus.com	Reference
+334	ign	ign.com	Games
+335	mercadolibre	mercadolibre.com.ar	Shopping
+336	rutracker	rutracker.org	Illegal or Unethical
+337	haber7	haber7.com	News and Media
+339	cloudfront	cloudfront.net	Content Servers
+340	accuweather	accuweather.com	News and Media
+341	uzone	uzone.id	News and Media
+343	gismeteo	gismeteo.ru	News and Media
+344	okta	okta.com	Information Technology
+346	jrj	jrj.com.cn	Finance and Banking
+347	huffingtonpost	huffingtonpost.com	News and Media
+348	udemy	udemy.com	Education
+349	atlassian	atlassian.net	Information Technology
+350	sabah	sabah.com.tr	News and Media
+351	goodreads	goodreads.com	Arts and Culture
+353	usps	usps.com	Business
+354	olx	olx.ua	Shopping
+355	oracle	oracle.com	Information Technology
+356	line	line.me	Instant Messaging
+357	behance	behance.net	Business
+358	homedepot	homedepot.com	Shopping
+359	epicgames	epicgames.com	Games
+360	hp	hp.com	Information Technology
+361	pinimg	pinimg.com	Content Servers
+362	icloud	icloud.com	File Sharing and Storage
+363	bestbuy	bestbuy.com	Shopping
+365	k618	k618.cn	Education
+366	myway	myway.com	Search Engines and Portals
+367	kinopoisk	kinopoisk.ru	Entertainment
+368	exosrv	exosrv.com	Pornography
+369	rarbg	rarbg.to	Illegal or Unethical
+370	outbrain	outbrain.com	Business
+372	siteadvisor	siteadvisor.com	Information and Computer Security
+373	businessinsider	businessinsider.com	News and Media
+374	telegram	telegram.org	Instant Messaging
+375	flickr	flickr.com	File Sharing and Storage
+376	ups	ups.com	Business
+377	bldaily	bldaily.com	Business
+378	glassdoor	glassdoor.com	Job Search
+379	patreon	patreon.com	Entertainment
+380	kaskus	kaskus.co.id	Newsgroups and Message Boards
+381	gmw	gmw.cn	News and Media
+382	momoshop	momoshop.com.tw	Shopping
+383	intuit	intuit.com	Information Technology
+384	userapi	userapi.com	Information Technology
+385	asos	asos.com	Shopping
+386	sindonews	sindonews.com	News and Media
+388	onet	onet.pl	Search Engines and Portals
+389	ouo	ouo.io	Information Technology
+390	americanexpress	americanexpress.com	Finance and Banking
+391	dell	dell.com	Information Technology
+392	uptodown	uptodown.com	Freeware and Software Downloads
+393	newsprofin	newsprofin.com	Phishing
+394	capitalone	capitalone.com	Finance and Banking
+395	humblebundle	humblebundle.com	Games
+396	bitauto	bitauto.com	Personal Vehicles
+397	box	box.com	File Sharing and Storage
+398	feedly	feedly.com	Information Technology
+399	wp	wp.pl	Search Engines and Portals
+400	mmoframes	mmoframes.com	Pornography
+401	spotscenered	spotscenered.info	Domain Parking
+402	cambridge	cambridge.org	Education
+403	hdfcbank	hdfcbank.com	Finance and Banking
+404	zendesk	zendesk.com	Business
+405	friv	friv.com	Games
+406	ndtv	ndtv.com	News and Media
+407	skype	skype.com	Internet Telephony
+408	epochtimes	epochtimes.com	News and Media
+409	gearbest	gearbest.com	Shopping
+410	independent	independent.co.uk	News and Media
+411	igmatik	igmatik.com	Business
+412	velocecdn	velocecdn.com	Information Technology
+413	free	free.fr	Information Technology
+414	ebc	ebc.net.tw	Entertainment
+415	samsung	samsung.com	Business
+416	mailchimp	mailchimp.com	Information Technology
+417	espncricinfo	espncricinfo.com	Sports
+418	manoramaonline	manoramaonline.com	News and Media
+420	slickdeals	slickdeals.net	Shopping
+421	fedex	fedex.com	Business
+422	okdiario	okdiario.com	Travel
+423	target	target.com	Shopping
+424	subscene	subscene.com	Entertainment
+425	prezi	prezi.com	Web-based Applications
+426	zoom	zoom.us	Online Meeting
+427	t-online	t-online.de	Search Engines and Portals
+428	mi	mi.com	Information Technology
+429	dcinside	dcinside.com	Information Technology
+430	shein	shein.com	Shopping
+431	repubblica	repubblica.it	News and Media
+432	seasonvar	seasonvar.ru	Illegal or Unethical
+433	wix	wix.com	Information Technology
+434	ibestmmorpg	ibestmmorpg.com	Meaningless Content
+435	indoxx1	indoxx1.com	Illegal or Unethical
+436	popcash	popcash.net	Advertising
+437	idntimes	idntimes.com	Entertainment
+438	googlevideo	googlevideo.com	Streaming Media and Download
+439	gizmodo	gizmodo.com	Information Technology
+440	myanimelist	myanimelist.net	Entertainment
+441	elpais	elpais.com	News and Media
+442	cnnindonesia	cnnindonesia.com	News and Media
+443	wiktionary	wiktionary.org	Reference
+444	beeg	beeg.com	Pornography
+445	theverge	theverge.com	Information Technology
+446	list-manage	list-manage.com	Advertising
+447	goo	goo.ne.jp	Search Engines and Portals
+448	bloomberg	bloomberg.com	Finance and Banking
+449	primevideo	primevideo.com	Streaming Media and Download
+450	17ok	17ok.com	Brokerage and Trading
+452	mit	mit.edu	Education
+453	webex	webex.com	Online Meeting
+455	seznam	seznam.cz	Search Engines and Portals
+456	taleo	taleo.net	Information Technology
+457	mysearch	mysearch.com	Malicious Websites
+458	nike	nike.com	Shopping
+459	libero	libero.it	Search Engines and Portals
+460	nur	nur.kz	Search Engines and Portals
+461	wish	wish.com	Shopping
+462	rediff	rediff.com	Search Engines and Portals
+463	dictionary	dictionary.com	Reference
+464	sex	sex.com	Pornography
+465	yourporn	yourporn.sexy	Pornography
+466	informationvine	informationvine.com	Search Engines and Portals
+467	spiegel	spiegel.de	News and Media
+468	debate	debate.com.mx	News and Media
+470	cdninstagram	cdninstagram.com	Social Networking
+471	ieee	ieee.org	General Organizations
+473	usatoday	usatoday.com	News and Media
+474	vidio	vidio.com	Streaming Media and Download
+475	surveymonkey	surveymonkey.com	Information Technology
+476	rottentomatoes	rottentomatoes.com	Entertainment
+477	ria	ria.ru	News and Media
+478	telewebion	telewebion.com	Internet Radio and TV
+479	shaparak	shaparak.ir	General Organizations
+481	ensonhaber	ensonhaber.com	News and Media
+482	gosuslugi	gosuslugi.ru	Government and Legal Organizations
+483	uidai	uidai.gov.in	Government and Legal Organizations
+484	ultimate-guitar	ultimate-guitar.com	Entertainment
+485	biobiochile	biobiochile.cl	News and Media
+486	urbandictionary	urbandictionary.com	Other Adult Materials
+487	lapatilla	lapatilla.com	News and Media
+488	ibm	ibm.com	Information Technology
+489	mrnrnyavzcatfv	mrnrnyavzcatfv.com	Newly Observed Domain
+490	nextlnk1	nextlnk1.com	Malicious Websites
+491	giphy	giphy.com	Entertainment
+494	104	104.com.tw	Job Search
+495	blog	blog.jp	Personal Websites and Blogs
+496	wixsite	wixsite.com	Information Technology
+497	albawabhnews	albawabhnews.com	News and Media
+498	emol	emol.com	News and Media
+499	adp	adp.com	Business
+500	alicdn	alicdn.com	Business
